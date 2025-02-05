@@ -46,7 +46,7 @@
         </div>
         <div>
           <h3 class="text-lg font-semibold text-zinc-700 dark:text-zinc-200 mb-1">Jordbruksverket</h3>
-          <p class="text-zinc-600 dark:text-zinc-200">Expertis i flera projekt så som Markuppföljningen, Geofoto och DSData</p>
+          <p class="text-zinc-600 dark:text-zinc-200">Expertis i flera projekt så som Markuppföljningen, Geofoto och DSData.</p>
         </div>
       </div>
     </div>
