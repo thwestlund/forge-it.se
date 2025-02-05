@@ -1,6 +1,4 @@
 <script lang="ts">
-  import { fade } from 'svelte/transition'
-  import me from "$lib/assets/images/me.jpg";
 </script>
 
 <div class="mx-auto px-4 py-8 min-h-screen bg-neutral-50 dark:bg-zinc-900">
